@@ -110,10 +110,15 @@ java TesteiPhone
 
 📁 Projeto iPhone/
 ├── 📄 ReprodutorMusical.java     # Interface - Música
+
 ├── 📄 AparelhoTelefonico.java    # Interface - Telefone  
+
 ├── 📄 NavegadorInternet.java     # Interface - Internet
+
 ├── 📄 iPhone.java                # Classe principal
+
 ├── 📄 TesteiPhone.java           # Testes interativos
+
 └── 📄 README.md                  # Documentação
 
 ```
